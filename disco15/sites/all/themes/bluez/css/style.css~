@@ -500,7 +500,7 @@ h4 a {
 }
 
 #main-menu .menu a.active-trail {
-  /*color: #ffffff;*/
+  color: #ffffff;
 }
 
 #main-menu .menu li ul {
